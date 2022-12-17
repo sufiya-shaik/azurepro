@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 these code create to fetch and merge by developer
 
 code changed by developer to merge
 
 to create these line to merge the develop with main
+=======
+these code changes the dvelop branch into main
+>>>>>>> 40395ae4373d6e512e297f176123f271d28c91ad
